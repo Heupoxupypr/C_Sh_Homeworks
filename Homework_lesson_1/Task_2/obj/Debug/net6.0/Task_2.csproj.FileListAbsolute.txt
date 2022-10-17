@@ -1,0 +1,15 @@
+G:\Microcontrollers\С_Sh_Homeworks\Homework_lesson_1\Task_2\bin\Debug\net6.0\Task_2.exe
+G:\Microcontrollers\С_Sh_Homeworks\Homework_lesson_1\Task_2\bin\Debug\net6.0\Task_2.deps.json
+G:\Microcontrollers\С_Sh_Homeworks\Homework_lesson_1\Task_2\bin\Debug\net6.0\Task_2.runtimeconfig.json
+G:\Microcontrollers\С_Sh_Homeworks\Homework_lesson_1\Task_2\bin\Debug\net6.0\Task_2.dll
+G:\Microcontrollers\С_Sh_Homeworks\Homework_lesson_1\Task_2\bin\Debug\net6.0\Task_2.pdb
+G:\Microcontrollers\С_Sh_Homeworks\Homework_lesson_1\Task_2\obj\Debug\net6.0\Task_2.csproj.AssemblyReference.cache
+G:\Microcontrollers\С_Sh_Homeworks\Homework_lesson_1\Task_2\obj\Debug\net6.0\Task_2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Microcontrollers\С_Sh_Homeworks\Homework_lesson_1\Task_2\obj\Debug\net6.0\Task_2.AssemblyInfoInputs.cache
+G:\Microcontrollers\С_Sh_Homeworks\Homework_lesson_1\Task_2\obj\Debug\net6.0\Task_2.AssemblyInfo.cs
+G:\Microcontrollers\С_Sh_Homeworks\Homework_lesson_1\Task_2\obj\Debug\net6.0\Task_2.csproj.CoreCompileInputs.cache
+G:\Microcontrollers\С_Sh_Homeworks\Homework_lesson_1\Task_2\obj\Debug\net6.0\Task_2.dll
+G:\Microcontrollers\С_Sh_Homeworks\Homework_lesson_1\Task_2\obj\Debug\net6.0\refint\Task_2.dll
+G:\Microcontrollers\С_Sh_Homeworks\Homework_lesson_1\Task_2\obj\Debug\net6.0\Task_2.pdb
+G:\Microcontrollers\С_Sh_Homeworks\Homework_lesson_1\Task_2\obj\Debug\net6.0\Task_2.genruntimeconfig.cache
+G:\Microcontrollers\С_Sh_Homeworks\Homework_lesson_1\Task_2\obj\Debug\net6.0\ref\Task_2.dll
