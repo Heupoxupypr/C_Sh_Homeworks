@@ -28,4 +28,4 @@ int CheckInput (string message)
 int a = CheckInput ("Please enter number A: ");
 int b = CheckInput ("Please enter number B: ");
 
-Console.WriteLine ($"Result: {Math.Pow(a,b)}");
+Console.WriteLine ($"Result of raising the number A {a} to the power B {b}: {Math.Pow(a,b)}");
